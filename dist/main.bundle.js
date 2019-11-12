@@ -2439,8 +2439,8 @@ var _a, _b, _c, _d, _e, _f, _g;
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppConfig; });
 var AppConfig = (function () {
     function AppConfig() {
-        this.apiHost = "https://nhoma.herokuapp.com/api";
-        this.host = "https://nhoma.herokuapp.com";
+        this.apiHost = "https://nhom-g2-attendance.herokuapp.com/api";
+        this.host = "https://nhom-g2-attendance.herokuapp.com";
     }
     return AppConfig;
 }());

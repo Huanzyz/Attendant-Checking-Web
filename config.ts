@@ -1,4 +1,4 @@
 export class AppConfig {
-    public apiHost = 'https://nhoma.herokuapp.com/api';
-    public host = 'https://nhoma.herokuapp.com';
+    public apiHost = 'https://nhom-g2-attendance.herokuapp.com/api';
+    public host = 'https://nhom-g2-attendance.herokuapp.com';
 }
